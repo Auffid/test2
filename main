@@ -6,6 +6,6 @@ printf("Hello World!\n");
 printf("%d\n",a):
 system("pause");
 return 0;
-
+GLAVRIBA
 
 }
