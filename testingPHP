@@ -1,0 +1,13 @@
+‹html›
+‹head›
+‹title›Текст вне тегов PHP‹/title›
+‹/head›
+‹body›
+echo "Это не PHP-код";
+‹br›
+‹?php
+echo "Hello, World!";
+?›
+‹br›
+echo "Это не PHP-код";
+‹/body›
